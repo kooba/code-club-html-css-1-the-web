@@ -2,7 +2,7 @@
 title: Introduction
 files:
   - action: open
-    path: "#terminal: bash .guides/restore.sh intro"
+    path: "#cmd: bash .guides/restore.sh intro,index.html"
     panel: 0
 layout: 2-panels-tree
 

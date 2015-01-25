@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Intro": "bash ~/workspace/.guides/restore.sh intro",
+        "First Page": "bash ~/workspace/.guides/restore.sh first_page"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Preview": "https://{{domain}}/{{index}}"
+  }
+}
